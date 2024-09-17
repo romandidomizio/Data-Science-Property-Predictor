@@ -1,4 +1,4 @@
-# CSCI-3002: Data-Science-with-Prob-Stats-Semester-Project
+# CSCI-3002: Data-Science-Semester-Project
 
 # Cook County Housing Data Analysis
 
