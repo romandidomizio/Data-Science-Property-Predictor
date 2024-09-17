@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cook_county_data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/cook_county_data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
